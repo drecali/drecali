@@ -32,10 +32,10 @@ Feel free to contact me with my <a href="mailto:tyler.trott@atsign.com"><b>email
 
 📈 Andrei's Github stats <br />
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=drecali&theme=dark&show_icons=true" alt="Summary of GitHub stats for drecali" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=drecali&count_private=true&theme=dark&show_icons=true" alt="Summary of GitHub stats for drecali" />  
   <br />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drecali&layout=compact&theme=dark" alt="Top programming languages used on GitHub by drecali" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drecali&langs_count=10&count_private=true&layout=compact&theme=dark" alt="Top programming languages used on GitHub by drecali" />
 </p>
 
 
