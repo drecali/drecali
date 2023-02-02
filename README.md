@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Welcome to Andrei's GitHub profile! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+  <h2> Welcome to Andrei's GitHub profile! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 
 <!-- <div align="center" width="50">
   ![](_welcome.gif)
@@ -27,21 +27,19 @@ Feel free to contact me with my <a href="mailto:tyler.trott@atsign.com"><b>email
 
 </div>
  -->
+
+  <p>📈 Andrei's Github stats</p>
+  <section>
+    <img src="https://github-readme-stats.vercel.app/api?username=drecali&count_private=true&theme=dark&show_icons=true" alt="Summary of GitHub stats for drecali" />  
+    <br />
+    <br />
+    <img align="center" width="37%" src="https://api.githubtrends.io/user/svg/drecali/langs?time_range=one_year&theme=dark&include_private=true&compact=true"/>
+  </section>
   
-</br>
+  <br>
+  <p>Check out my LinkedIn!</p>
 
-📈 Andrei's Github stats <br />
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=drecali&count_private=true&theme=dark&show_icons=true" alt="Summary of GitHub stats for drecali" />  
-  <br />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drecali&langs_count=10&count_private=true&layout=compact&theme=dark" alt="Top programming languages used on GitHub by drecali" />
-</p>
-
-
-Check out my LinkedIn!
-
-<a href="https://www.linkedin.com/in/drecali/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/drecali/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 
 
