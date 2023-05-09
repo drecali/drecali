@@ -37,6 +37,11 @@ Feel free to contact me with my <a href="mailto:tyler.trott@atsign.com"><b>email
   </section>
   
   <br>
+  <h2>🧑‍💻👇 Join the weekly FreeCodeCamp Seoul meetups I organize 👇🧑‍💻</h2>
+  
+  <a href="https://meetup.com/fccseoul" target="_blank"><img src="https://user-images.githubusercontent.com/24983797/237028557-cbdeb514-fecb-412f-8d94-31c232fda089.png" alt="Screenshot of the meetup.com page of the FreeCodeCamp Seoul group"></a>
+  
+  <br>
   <p>Check out my LinkedIn!</p>
 
   <a href="https://www.linkedin.com/in/drecali/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
