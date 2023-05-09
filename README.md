@@ -36,17 +36,22 @@ Feel free to contact me with my <a href="mailto:tyler.trott@atsign.com"><b>email
     <img src="https://api.githubtrends.io/user/svg/drecali/langs?time_range=one_year&theme=dark&include_private=true&compact=true"/>
   </section>
   
-  <br>
-  <h2>🧑‍💻👇 Join the weekly FreeCodeCamp Seoul meetups I organize 👇🧑‍💻</h2>
+  <section>
+    <br />
+    <h2>Click 👇 to join the weekly FreeCodeCamp Seoul meetups I organize <br /> 👇🧑‍💻</h2>
+    <a href="https://meetup.com/fccseoul" target="_blank">
+      <img src="https://user-images.githubusercontent.com/24983797/237028557-cbdeb514-fecb-412f-8d94-31c232fda089.png" alt="Screenshot of the meetup.com page of the FreeCodeCamp Seoul group">
+    </a>
+  </section>
   
-  <a href="https://meetup.com/fccseoul" target="_blank"><img src="https://user-images.githubusercontent.com/24983797/237028557-cbdeb514-fecb-412f-8d94-31c232fda089.png" alt="Screenshot of the meetup.com page of the FreeCodeCamp Seoul group"></a>
-  
-  <br>
-  <p>Check out my LinkedIn!</p>
-
-  <a href="https://www.linkedin.com/in/drecali/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <section>
+    <br />
+    <p>Check out my LinkedIn!</p>
+    <a href="https://www.linkedin.com/in/drecali/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </section>
 </div>
-
 
 <!--
 **drecali/drecali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
