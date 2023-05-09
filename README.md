@@ -33,7 +33,7 @@ Feel free to contact me with my <a href="mailto:tyler.trott@atsign.com"><b>email
     <img src="https://github-readme-stats.vercel.app/api?username=drecali&count_private=true&theme=dark&show_icons=true" alt="Summary of GitHub stats for drecali" />  
     <br />
     <br />
-    <img align="center" width="37%" src="https://api.githubtrends.io/user/svg/drecali/langs?time_range=one_year&theme=dark&include_private=true&compact=true"/>
+    <img src="https://api.githubtrends.io/user/svg/drecali/langs?time_range=one_year&theme=dark&include_private=true&compact=true"/>
   </section>
   
   <br>
