@@ -33,15 +33,14 @@ Feel free to contact me with my <a href="mailto:tyler.trott@atsign.com"><b>email
     <img src="https://github-readme-stats.vercel.app/api?username=drecali&count_private=true&theme=dark&show_icons=true" alt="Numerical summary of GitHub stats for drecali. It shows total stars, total commits for the current year, total PRs, total issues, and repositories contributed to. " />  
     <br />
     <br />
-    <img src="https://api.githubtrends.io/user/svg/drecali/langs?time_range=one_year&theme=dark&include_private=true&compact=true"/>
+    <img src="https://api.githubtrends.io/user/svg/drecali/langs?time_range=one_year&theme=dark&include_private=true&compact=true" alt="Bar graph summary of GitHub language stats for drecali. In the past year, according to the lines of code he committed, he mostly uses Typescript, with a tiny bit of JavaScript, some shell code, and CSS."/>
   </section>
-  <img width="831" alt="Bar graph summary of GitHub language stats for drecali. In the past year, according to the lines of code he committed, he mostly uses Typescript, with a tiny bit of JavaScript, some shell code, and CSS." src="https://github.com/drecali/drecali/assets/24983797/e7cc9825-f7f3-4bd6-be5b-21ac75f786a1">
-
+  
   <section>
     <br />
     <h2>Click 👇 to join the weekly FreeCodeCamp Seoul meetups I organize <br /> 👇🧑‍💻</h2>
     <a href="https://meetup.com/fccseoul" target="_blank">
-      <img width="831" src="https://github.com/drecali/drecali/assets/24983797/e7cc9825-f7f3-4bd6-be5b-21ac75f786a1" alt="Screenshot of the meetup.com page of the FreeCodeCamp Seoul group. This group is for people interested in coding and everyone is welcome regardless of experience or ability. As of 2023 10 10, there were 591 members.">
+      <img width="831" src="https://user-images.githubusercontent.com/24983797/273883320-26259481-0eea-496d-b6c2-96d9cfe9e33f.png" alt="Screenshot of the meetup.com page of the FreeCodeCamp Seoul group. This group is for people interested in coding and everyone is welcome regardless of experience or ability.">
     </a>
   </section>
   
