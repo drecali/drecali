@@ -109,11 +109,13 @@ When I moved to Seoul after 1 year of hosting FCC Ulsan events, I was surprised 
 
 ## [FreeCodeCamp Ulsan](https://www.facebook.com/groups/freecodecamp.ulsan)
 
+Organizer/host from Jan 2019 to Feb 2020.
+
 I started FreeCodeCamp Ulsan group because I was first exposed to coding at a FreeCodeCamp Busan right when I was dissatisfied with my career. There, I found a supportive and motivating community that helped keep me consistent and change careers. I wanted to help others discover the joys of coding and find more fulfilling careers. Obviously, nerding out with others was a bonus. When I left Ulsan, I handed leadership to my trusted co-organizers.
 
 <details>
   
-  <summary>FreeCodeCamp Ulsan</summary>
+  <summary>FreeCodeCamp Ulsan events</summary>
   
 1. 2020 FEB 8 SAT - https://www.facebook.com/events/1486583831491241
 1. 2020 FEB 1 SAT - https://www.facebook.com/events/768520193643290
