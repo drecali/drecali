@@ -7,10 +7,10 @@
   </section>
 
   <section>
-    <p>I mostly code for work. A lot. I also enjoy it. Unfortunately, this activity doesn't show in GitHub summaries because the organization is private. I've been working at the same medical AI company since 2021. My team is in charge of medical annotation apps, especially making them faster, more efficient, and accurate for medical annotators. </p>
+    <p>I'm a frontend engineer or web developer. I mostly code for work. A lot. I also enjoy it. Unfortunately, this activity doesn't show in GitHub summaries because the organization is private. I've been working at the same <a href="https://lunit.io/en" target="_blank">medical AI company</a> since 2021. My team is in charge of medical annotation apps, especially making them faster, more efficient, and accurate for medical annotators. Our goal is to conquer cancer with AI.</p>
   </section>
 
-  I've been hosting weekly coding meetups since 2019. I started one meetup group (FreeCodeCamp Ulsan) and revived another (FreeCodeCamp Seoul). I was first exposed to coding at a FreeCodeCamp Busan meetup and I've been hooked ever since. Here's a partial record of the meetups I hosted in the past. With very few exceptions I hosted all FCC Seoul meetups solo and the majority of FCC Ulsan meetups too.
+  <p>I've been hosting weekly coding meetups since 2019. I started one meetup group (<a href="https://www.facebook.com/groups/freecodecamp.ulsan" target="_blank">FreeCodeCamp Ulsan</a>) and revived another (<a href="https://meetup.com/fccseoul" target="_blank">FreeCodeCamp Seoul</a>). I was first exposed to coding at a FreeCodeCamp Busan meetup and I've been hooked ever since. Here's a partial record of the meetups I hosted in the past. With very few exceptions I hosted all FCC Seoul meetups solo and the majority of FCC Ulsan meetups too. As of 2024, both meetups are still going strong, despite COVID, job changes, moving, traffic accidents, surgery, veterinary emergencies, and occasional trolling.</p>
 
 <details>
   
@@ -20,7 +20,7 @@
   
 Organizer/host from May 2020 to present.
   
-When I moved to Seoul after 1 year of hosting FCC Ulsan events, I was surprised the FCC Seoul group was on a 3-year hiatus despite being in a world-class city in a technological powerhouse, so I resumed meetups following proper local social distancing policies. At FCC Seoul, I met a lot of great people. The meetups and community have helped me and others find better jobs, change careers, or discover the joys of coding. I still run the weekly IRL meetups and two co-admins help run the Discord community which was created by one of them.
+When I moved to Seoul after 1 year of hosting FCC Ulsan events, I was surprised the FCC Seoul group was on a 3-year hiatus despite being in a world-class city in a technological powerhouse, so I resumed meetups following proper local social distancing policies. At FCC Seoul, I met a lot of great people. The meetups and community have helped me and others find better jobs, change careers, or discover the joys of coding. I still run the weekly IRL meetups while two co-admins help run the Discord community which one of them created.
 
 <details>
   
