@@ -7,7 +7,7 @@
   </section>
 
   <section>
-    <p>I'm a frontend engineer or web developer. I mostly code for work. A lot. I also enjoy it. Unfortunately, this activity doesn't show in GitHub summaries because the organization is private. I've been working at the same <a href="https://lunit.io/en" target="_blank">medical AI company</a> since 2021. My team is in charge of medical annotation apps, especially making them faster, more efficient, and accurate for medical annotators. Our goal is to conquer cancer with AI.</p>
+    <p>I'm a senior frontend engineer or web developer. I mostly code for work. A lot. I also enjoy it. Unfortunately, this activity doesn't show in GitHub summaries because the organization is private. I've been working at the same <a href="https://lunit.io/en" target="_blank">medical AI company</a> since 2021. Our goal is to conquer cancer with AI. My team is in charge of medical annotation apps, especially making them faster, more efficient, and accurate for medical annotators. Our work is vital to providing in-house AI reserachers with enormous volumes of accurately annotated data at a reasonable cost using both in-house and outsourced radiologists and pathologists, as well as internal quality-control steps.</p>
   </section>
 
   <p>I've been hosting weekly coding meetups since 2019. I started one meetup group (<a href="https://www.facebook.com/groups/freecodecamp.ulsan" target="_blank">FreeCodeCamp Ulsan</a>) and revived another (<a href="https://meetup.com/fccseoul" target="_blank">FreeCodeCamp Seoul</a>). I was first exposed to coding at a FreeCodeCamp Busan meetup and I've been hooked ever since. Here's a partial record of the meetups I hosted in the past. With very few exceptions I hosted all FCC Seoul meetups solo and the majority of FCC Ulsan meetups too. As of 2024, both meetups are still going strong, despite COVID, job changes, moving, traffic accidents, surgery, veterinary emergencies, and occasional trolling.</p>
@@ -26,6 +26,14 @@ When I moved to Seoul after 1 year of hosting FCC Ulsan events, I was surprised 
   
   <summary>FreeCodeCamp Seoul events</summary>
   
+1. 2024 Apr 21 Sun - https://www.meetup.com/fccseoul/events/300139940/
+1. 2024 Apr 14 Sun - https://www.meetup.com/fccseoul/events/299728137/
+1. 2024 Mar 31 Sun - https://www.meetup.com/fccseoul/events/299252373/
+1. 2024 Mar 24 Sun - https://www.meetup.com/fccseoul/events/299252354/
+1. 2024 Mar 17 Sun - https://www.meetup.com/fccseoul/events/299252270/
+1. 2024 Mar 10 Sun - https://www.meetup.com/fccseoul/events/299252269/
+1. 2024 Mar 3 Sun - https://www.meetup.com/fccseoul/events/298975449/
+1. 2024 Feb 25 Sun - https://www.meetup.com/fccseoul/events/299252267/
 1. 2024  Feb 18 Sun - https://www.meetup.com/fccseoul/events/299130937/
 1. 2024  Feb 11 Sun - https://www.meetup.com/fccseoul/events/299006248/
 1. 2024  Feb 4 Sun - https://www.meetup.com/fccseoul/events/298856537/
