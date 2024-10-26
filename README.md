@@ -10,7 +10,7 @@
     <p>I'm a senior frontend engineer or web developer specializing in Typescript, React, Vite, Cypress, Playwright. I mostly code for work. A lot. I enjoy it so much I do it recreationally too. I've been working at <a href="https://lunit.io/en" target="_blank">Lunit</a> (medical AI company) since 2021. Our goal is to conquer cancer with AI. My team is in charge of web apps for medical annotation, project management, and data management. Our main objectives are to make the UX faster, more efficient, and accurate for medical annotators and project managers. Our work is vital to providing in-house AI reserachers with enormous volumes of accurately annotated data at a reasonable cost using both in-house and outsourced radiologists and pathologists, as well as internal quality-control steps.</p>
   </section>
 
-  <p>I've been hosting weekly coding meetups since 2019. I started one meetup group (<a href="https://www.facebook.com/groups/freecodecamp.ulsan" target="_blank">FreeCodeCamp Ulsan</a>) and revived another (<a href="https://meetup.com/fccseoul" target="_blank">FreeCodeCamp Seoul</a>). I was first exposed to coding at a FreeCodeCamp Busan meetup and I've been hooked ever since. Here's a partial record of the meetups I hosted in the past. With very few exceptions I hosted all FCC Seoul meetups solo and the majority of FCC Ulsan meetups too. As of 2024, both meetups are still going strong, despite COVID, job changes, moving, traffic accidents, surgery, veterinary emergencies, and occasional trolling.</p>
+  <p>I've been hosting weekly coding meetups since 2019. I started one meetup group (<a href="https://www.facebook.com/groups/freecodecamp.ulsan" target="_blank">FreeCodeCamp Ulsan</a>) and revived another (<a href="https://meetup.com/fccseoul" target="_blank">FreeCodeCamp Seoul</a>). I was first exposed to coding at a FreeCodeCamp Busan meetup and I've been hooked ever since. Here's a partial record of the meetups I hosted in the past. With very few exceptions I hosted all FCC Seoul meetups solo and the majority of FCC Ulsan meetups too. As of 2024, both meetups are still going strong, despite COVID, job changes, moving, traffic accidents, surgeries, veterinary emergencies, and occasional trolling.</p>
 
 <details>
   
@@ -26,6 +26,24 @@ When I moved to Seoul after 1 year of hosting FCC Ulsan events, I was surprised 
   
   <summary>FreeCodeCamp Seoul events</summary>
   
+1. 2024 Oct 27 Sun - https://www.meetup.com/fccseoul/events/303876855/
+1. 2024 Oct 13 Sun - https://www.meetup.com/fccseoul/events/303595850/
+1. 2024 Oct 6 Sun - https://www.meetup.com/fccseoul/events/303456259/
+1. 2024 Sep 29 Sun - https://www.meetup.com/fccseoul/events/303168152/
+1. 2024 Sep 22 Sun - https://www.meetup.com/fccseoul/events/303169299/
+1. 2024 Sep 15 Sun - https://www.meetup.com/fccseoul/events/298718671/
+1. 2024 Sep 1 Sun - https://www.meetup.com/fccseoul/events/302782274/
+1. 2024 Aug 25 Sun - https://www.meetup.com/fccseoul/events/302785865/
+1. 2024 Aug 18 Sun - https://www.meetup.com/fccseoul/events/302506114/
+1. 2024 Aug 11 Sun - https://www.meetup.com/fccseoul/events/301266807/
+1. 2024 Aug 4 Sun - https://www.meetup.com/fccseoul/events/301266806/
+1. 2024 Jun 30 Sun - https://www.meetup.com/fccseoul/events/301266801/
+1. 2024 Jun 23 Sun - https://www.meetup.com/fccseoul/events/301266800/
+1. 2024 Jun 16 Sun - https://www.meetup.com/fccseoul/events/301266794/
+1. 2024 Jun 9 Sun - https://www.meetup.com/fccseoul/events/301266793/
+1. 2024 Jun 2 Sun - https://www.meetup.com/fccseoul/events/300990720/
+1. 2024 May 19 Sun - https://www.meetup.com/fccseoul/events/300140116/
+1. 2024 May 12 Sun - https://www.meetup.com/fccseoul/events/300140009/
 1. 2024 Apr 28 Sun - https://www.meetup.com/fccseoul/events/300139969/
 1. 2024 Apr 21 Sun - https://www.meetup.com/fccseoul/events/300139940/
 1. 2024 Apr 14 Sun - https://www.meetup.com/fccseoul/events/299728137/
@@ -35,57 +53,56 @@ When I moved to Seoul after 1 year of hosting FCC Ulsan events, I was surprised 
 1. 2024 Mar 10 Sun - https://www.meetup.com/fccseoul/events/299252269/
 1. 2024 Mar 3 Sun - https://www.meetup.com/fccseoul/events/298975449/
 1. 2024 Feb 25 Sun - https://www.meetup.com/fccseoul/events/299252267/
-1. 2024  Feb 18 Sun - https://www.meetup.com/fccseoul/events/299130937/
-1. 2024  Feb 11 Sun - https://www.meetup.com/fccseoul/events/299006248/
-1. 2024  Feb 4 Sun - https://www.meetup.com/fccseoul/events/298856537/
-1. 2024  Jan 28 Sun - https://www.meetup.com/fccseoul/events/298555379/
-1. 2024  Jan 21 Sun - https://www.meetup.com/fccseoul/events/298555361/
-1. 2024  Jan 14 Sun - https://www.meetup.com/fccseoul/events/298101742/
-1. 2024  Jan 7 Sun - https://www.meetup.com/fccseoul/events/298028240/
-1. 2023  Dec 31 Sun - https://www.meetup.com/fccseoul/events/298130002/
-1. 2023  Dec 24 Sun - https://www.meetup.com/fccseoul/events/297996085/
-1. 2023  Dec 17 Sun - https://www.meetup.com/fccseoul/events/297732204/
-1. 2023  Dec 10 Sun - https://www.meetup.com/fccseoul/events/297479627/
-1. 2023  Nov 5 Sun - https://www.meetup.com/fccseoul/events/296775153/
-1. 2023  Oct 29 Sun - https://www.meetup.com/fccseoul/events/296832009/
-1. 2023  Oct 22 Sun - https://www.meetup.com/fccseoul/events/296482030/
-1. 2023  Oct 15 Sun - https://www.meetup.com/fccseoul/events/296328050/
-1. 2023  Oct 8 Sun - https://www.meetup.com/fccseoul/events/296178129/
-1. 2023  Sep 24 Sun - https://www.meetup.com/fccseoul/events/296155864/
-1. 2023  Sep 17 Sun - https://www.meetup.com/fccseoul/events/295875145/
-1. 2023  Sep 10 Sun - https://www.meetup.com/fccseoul/events/295580945/
-1. 2023  Sep 3 Sun - https://www.meetup.com/fccseoul/events/295713052/
-1. 2023  Aug 27 Sun - https://www.meetup.com/fccseoul/events/294695724/
-1. 2023  Aug 20 Sun - https://www.meetup.com/fccseoul/events/294756577/
-1. 2023  Aug 13 Sun - https://www.meetup.com/fccseoul/events/294738929/
-1. 2023  Jul 9 Sun - https://www.meetup.com/fccseoul/events/294422438/
-1. 2023  Jun 25 Sun - https://www.meetup.com/fccseoul/events/294274866/
-1. 2023  Jun 18 Sun - https://www.meetup.com/fccseoul/events/294134719/
-1. 2023  Jun 11 Sun - https://www.meetup.com/fccseoul/events/293907213/
-1. 2023  Jun 4 Sun - https://www.meetup.com/fccseoul/events/293543768/
-1. 2023  May 28 Sun - https://www.meetup.com/fccseoul/events/293231681/
-1. 2023  May 21 Sun - https://www.meetup.com/fccseoul/events/293227682/
-1. 2023  May 14 Sun - https://www.meetup.com/fccseoul/events/293272892/
-1. 2023  May 7 Sun - https://www.meetup.com/fccseoul/events/293227681/
-1. 2023  Apr 30 Sun - https://www.meetup.com/fccseoul/events/292969688/
-1. 2023  Apr 23 Sun - https://www.meetup.com/fccseoul/events/292757454/
-1. 2023  Apr 16 Sun - https://www.meetup.com/fccseoul/events/292005313/
-1. 2023  Apr 9 Sun - https://www.meetup.com/fccseoul/events/291037256/
-1. 2023  Apr 2 Sun - https://www.meetup.com/fccseoul/events/291037254/
-1. 2023  Mar 26 Sun - https://www.meetup.com/fccseoul/events/291037246/
-1. 2023  Mar 22 Wed - https://www.meetup.com/fccseoul/events/292209605/
-1. 2023  Mar 19 Sun - https://www.meetup.com/fccseoul/events/291880115/
-1. 2023  Mar 18 Sat - https://www.meetup.com/fccseoul/events/292209531/
-1. 2023  Mar 12 Sun - https://www.meetup.com/fccseoul/events/291043225/
-1. 2023  Mar 5 Sun - https://www.meetup.com/fccseoul/events/291713181/
-1. 2023  Feb 26 Sun - https://www.meetup.com/fccseoul/events/291441856/
-1. 2023  Feb 19 Sun - https://www.meetup.com/fccseoul/events/291223536/
-1. 2023  Feb 12 Sun - https://www.meetup.com/fccseoul/events/291000806/
-1. 2023  Jan 29 Sun - https://www.meetup.com/fccseoul/events/290894767/
-1. 2023  Jan 15 Sun - https://www.meetup.com/fccseoul/events/290642298/
-1. 2023  Jan 8 Sun - https://www.meetup.com/fccseoul/events/290662245/
-1. 2023  Jan 1 Sun - https://www.meetup.com/fccseoul/events/290575819/
-1. 2023 JAN 1 SUN - https://www.facebook.com/events/1148636519349115
+1. 2024 Feb 18 Sun - https://www.meetup.com/fccseoul/events/299130937/
+1. 2024 Feb 11 Sun - https://www.meetup.com/fccseoul/events/299006248/
+1. 2024 Feb 4 Sun - https://www.meetup.com/fccseoul/events/298856537/
+1. 2024 Jan 28 Sun - https://www.meetup.com/fccseoul/events/298555379/
+1. 2024 Jan 21 Sun - https://www.meetup.com/fccseoul/events/298555361/
+1. 2024 Jan 14 Sun - https://www.meetup.com/fccseoul/events/298101742/
+1. 2024 Jan 7 Sun - https://www.meetup.com/fccseoul/events/298028240/
+1. 2023 Dec 31 Sun - https://www.meetup.com/fccseoul/events/298130002/
+1. 2023 Dec 24 Sun - https://www.meetup.com/fccseoul/events/297996085/
+1. 2023 Dec 17 Sun - https://www.meetup.com/fccseoul/events/297732204/
+1. 2023 Dec 10 Sun - https://www.meetup.com/fccseoul/events/297479627/
+1. 2023 Nov 5 Sun - https://www.meetup.com/fccseoul/events/296775153/
+1. 2023 Oct 29 Sun - https://www.meetup.com/fccseoul/events/296832009/
+1. 2023 Oct 22 Sun - https://www.meetup.com/fccseoul/events/296482030/
+1. 2023 Oct 15 Sun - https://www.meetup.com/fccseoul/events/296328050/
+1. 2023 Oct 8 Sun - https://www.meetup.com/fccseoul/events/296178129/
+1. 2023 Sep 24 Sun - https://www.meetup.com/fccseoul/events/296155864/
+1. 2023 Sep 17 Sun - https://www.meetup.com/fccseoul/events/295875145/
+1. 2023 Sep 10 Sun - https://www.meetup.com/fccseoul/events/295580945/
+1. 2023 Sep 3 Sun - https://www.meetup.com/fccseoul/events/295713052/
+1. 2023 Aug 27 Sun - https://www.meetup.com/fccseoul/events/294695724/
+1. 2023 Aug 20 Sun - https://www.meetup.com/fccseoul/events/294756577/
+1. 2023 Aug 13 Sun - https://www.meetup.com/fccseoul/events/294738929/
+1. 2023 Jul 9 Sun - https://www.meetup.com/fccseoul/events/294422438/
+1. 2023 Jun 25 Sun - https://www.meetup.com/fccseoul/events/294274866/
+1. 2023 Jun 18 Sun - https://www.meetup.com/fccseoul/events/294134719/
+1. 2023 Jun 11 Sun - https://www.meetup.com/fccseoul/events/293907213/
+1. 2023 Jun 4 Sun - https://www.meetup.com/fccseoul/events/293543768/
+1. 2023 May 28 Sun - https://www.meetup.com/fccseoul/events/293231681/
+1. 2023 May 21 Sun - https://www.meetup.com/fccseoul/events/293227682/
+1. 2023 May 14 Sun - https://www.meetup.com/fccseoul/events/293272892/
+1. 2023 May 7 Sun - https://www.meetup.com/fccseoul/events/293227681/
+1. 2023 Apr 30 Sun - https://www.meetup.com/fccseoul/events/292969688/
+1. 2023 Apr 23 Sun - https://www.meetup.com/fccseoul/events/292757454/
+1. 2023 Apr 16 Sun - https://www.meetup.com/fccseoul/events/292005313/
+1. 2023 Apr 9 Sun - https://www.meetup.com/fccseoul/events/291037256/
+1. 2023 Apr 2 Sun - https://www.meetup.com/fccseoul/events/291037254/
+1. 2023 Mar 26 Sun - https://www.meetup.com/fccseoul/events/291037246/
+1. 2023 Mar 22 Wed - https://www.meetup.com/fccseoul/events/292209605/
+1. 2023 Mar 19 Sun - https://www.meetup.com/fccseoul/events/291880115/
+1. 2023 Mar 18 Sat - https://www.meetup.com/fccseoul/events/292209531/
+1. 2023 Mar 12 Sun - https://www.meetup.com/fccseoul/events/291043225/
+1. 2023 Mar 5 Sun - https://www.meetup.com/fccseoul/events/291713181/
+1. 2023 Feb 26 Sun - https://www.meetup.com/fccseoul/events/291441856/
+1. 2023 Feb 19 Sun - https://www.meetup.com/fccseoul/events/291223536/
+1. 2023 Feb 12 Sun - https://www.meetup.com/fccseoul/events/291000806/
+1. 2023 Jan 29 Sun - https://www.meetup.com/fccseoul/events/290894767/
+1. 2023 Jan 15 Sun - https://www.meetup.com/fccseoul/events/290642298/
+1. 2023 Jan 8 Sun - https://www.meetup.com/fccseoul/events/290662245/
+1. 2023 Jan 1 Sun - https://www.meetup.com/fccseoul/events/290575819/
 1. 2022 DEC 18 SUN - https://www.facebook.com/events/608730427678989
 1. 2022 DEC 11 SUN - https://www.facebook.com/events/475990877972017
 1. 2022 DEC 4 SUN - https://www.facebook.com/events/688815592458061
@@ -181,7 +198,7 @@ I started FreeCodeCamp Ulsan group because I was first exposed to coding at a Fr
     <br />
     <h2>Click 👇 to join the weekly FreeCodeCamp Seoul meetups I organize <br /> 👇🧑‍💻</h2>
     <a href="https://meetup.com/fccseoul" target="_blank">
-      <img src="https://github.com/drecali/drecali/assets/24983797/6695573f-7710-49a2-bf43-7b1161717f0b" alt="Screenshot of the meetup.com page of the FreeCodeCamp Seoul group. This group is for people interested in coding and everyone is welcome regardless of experience or ability.">
+      <img src="https://github.com/user-attachments/assets/484a2f9d-213d-4837-b757-5690da1318a8" alt="Screenshot of the meetup.com page of the FreeCodeCamp Seoul group. This group is for people interested in coding and everyone is welcome regardless of experience or ability.">
     </a>
   </section>
 
